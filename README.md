@@ -1,4 +1,6 @@
 # taller_github
+Ejercicio github
+
 Para ejercitar el uso de Git y GitHub en equipo el grupo deberá realizar un proyecto simple que consistirá en:
 
 Construir en HTML un formulario simple con los campos usuario y contraseña y un botón de envío.
