@@ -1,5 +1,6 @@
 # taller_github
 Ejercicio github
+
 Para ejercitar el uso de Git y GitHub en equipo el grupo deberá realizar un proyecto simple que consistirá en:
 
 Construir en HTML un formulario simple con los campos usuario y contraseña y un botón de envío.
@@ -37,4 +38,5 @@ Una vez integradas las actualizaciones en develop los integrantes deberán mover
 Para poder seguir trabajando cada uno en su funcionalidad, deberán moverse nuevamente a su propia rama y actualizar dicho código con las actualizaciones de develop.
 
 Cuando se termine el trabajo en una rama individual y se haya mergeado correctamente en develop se deberá borrar la rama individual tanto del repositorio local como del repositorio en GitHub.
+
 
